@@ -1,0 +1,11 @@
+node_modules/
+.idea/
+.next/
+build
+coverage
+dist
+
+.env
+yarn-error.log
+.DS_Store
+.vscode
